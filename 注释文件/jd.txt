@@ -1,0 +1,33 @@
+https://img10.360buyimg.com/n5/jfs/t1/52134/11/10640/255454/5d78c1d1E8aca3bc2/782a4ce1e07885e6.jpg
+http://img10.360buyimg.com/n1/jfs/t1/52134/11/10640/255454/5d78c1d1E8aca3bc2/782a4ce1e07885e6.jpg
+url(//img30.360buyimg.com/sku/jfs/t29272/299/1346414716/481725/b0f363e7/5cde4417Nb9ad2226.jpg)
+
+https://cd.jd.com/description/channel?skuId=100008348508&mainSkuId=100008348508&cdn=2&callback=showdesc
+
+https://cd.jd.com/description/channel?skuId=41423708&mainSkuId=4142370&cdn=2&callback=showdesc
+
+https://cd.jd.com/description/channel?skuId=22602257123&mainSkuId=11133463075&cdn=2&callback=showdesc
+
+url(//img30.360buyimg.com/sku/jfs/t1/99531/14/12103/331490/5e438ff1Ebf68e05a/7888010e9da555fa.jpg)
+
+img10.360buyimg.com/n1/jfs/t29518/363/1392282331/144041/987d9dbd/5cde4180N5786efe2.jpg
+img10.360buyimg.com/n5/jfs/t29518/363/1392282331/144041/987d9dbd/5cde4180N5786efe2.jpg
+
+
+http://img13.360buyimg.com/n5/jfs/t1/108963/38/5988/265333/5e43f201Ee2053cd1/742557c73764e9fd.jpg
+https://img10.360buyimg.com/n5/jfs/t1/11771/19/5785/477666/5c380ec2E77d0c364/f25f2bd39f09ded0.jpg
+
+
+参数        含义
+-F          指定打包后只生成一个exe格式的文件
+-D          创建一个目录，包含exe文件，但会依赖很多文件（默认选项）
+-c          使用控制台，无界面(默认)
+-w          使用窗口，无控制台
+-p          添加搜索路径，让其找到对应的库。
+--icon      改变生成程序的icon图标(图片必须是icon格式的，可以在线转换)
+
+pyinstaller  -F path.py`
+
+ {'mb': True, 'pc': True, 'vd': True, 'cl': True, 'path': 'D:/你好', 'ip': '192.168.122.255', 'port': '0808'}
+
+视频imageAndVideoJson  infoVideoId

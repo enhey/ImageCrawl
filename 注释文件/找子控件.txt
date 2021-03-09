@@ -1,0 +1,17 @@
+https://detail.tmall.com/item.htm?spm=a230r.1.14.6.3cd33c6b0W3AEB&id=586747306069&cm_id=140105335569ed55e27b&abbucket=10
+https://detail.tmall.com/item.htm?spm=a230r.1.14.20.3cd33c6b0W3AEB&id=592248803724&ns=1&abbucket=10
+https://detail.tmall.com/item.htm?id=604701644653&ali_refid=a3_420432_1006:1252810116:N:o2sTaGwsXupBKM4E/JMA8w==:48294d60c371d7f4c6d1085f4807e14f&ali_trackid=1_48294d60c371d7f4c6d1085f4807e14f&spm=a230r.1.14.11
+https://detail.tmall.com/item.htm?id=604952613082&ali_refid=a3_420432_1006:1252810116:N:o2sTaGwsXupBKM4E/JMA8w==:138bc6636fff07db24f547d141fedd02&ali_trackid=1_138bc6636fff07db24f547d141fedd02&spm=a230r.1.14.16
+https://detail.tmall.com/item.htm?id=599399431177&ali_refid=a3_420432_1006:1105727710:N:8lfgUpE6o2oOqRrKEJ39lw==:0120a207839e899a626419be874e6176&ali_trackid=1_0120a207839e899a626419be874e6176&spm=a230r.1.14.1
+https://detail.tmall.com/item.htm?spm=a230r.1.14.21.7a6a79f8D6lFtm&id=610075389081&ns=1&abbucket=10
+
+self.listWidget.itemWidget(self.listWidget.item(0)).text()
+1.  通过选中的item,  获取里面的QWidget
+
+   QWidget* pwig = ui->listWidget->itemWidget(item); 
+
+2.  从得到的widget上的找到需要的子控件 
+
+     方法一:    QList<QLabel*> labelList = pwig->findChildren<QLabel*>();   
+
+     方法二:    QLabel * label = pwig->findChild<QLabel *>("label2");

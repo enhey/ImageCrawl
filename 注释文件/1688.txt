@@ -1,0 +1,15 @@
+url:https://m.1688.com/offer/607219306584.html?ptow=113d26e7c9a&spm=a312h.2018_new_sem.dh_002.1.7c7c1cadPNKgOF&tracelog=p4p&clickid=c2c0d45677d3499f8ba9d1132dfc7dba&sessionid=395b3a846df5e192fa5205b420ecd469
+
+desc:https://img.alicdn.com/tfscom/TB10.5LvUT1gK0jSZFhXXaAtVXa
+
+video:http://cloud.video.taobao.com/play/u/2998056521/p/2/e/6/t/1/212681892963.mp4
+          http://cloud.video.taobao.com/play/u/1726586419/p/2/e/6/t/1/245067602662.mp4  在电脑端文件内 mod mod-detail-gallery  videoId
+
+            {
+                        "detailTemplateInfo": [{&quot;contentUrl&quot;:&quot;https://img.alicdn.com/tfscom/TB1_Z1JvFY7gK0jSZKzXXaikpXa&quot;,&quot;id&quot;:&quot;0&quot;,&quot;title&quot;:&quot;图文详情&quot;}],
+                "detailUrl": "https://img.alicdn.com/tfscom/TB10.5LvUT1gK0jSZFhXXaAtVXa"
+          }
+
+https://apps.1688.com/event/app/videoInfo/getVideoById.htm?callback=jQuery172022189186408978068_1582550296855&site_id=winport&videoId=212681892963&memberId=b2b-2998056521e0101&_csrf_token=ff0e8c81c1371be1deae94cb4ee26310
+
+https://apps.1688.com/event/app/videoInfo/getVideoById.htm?callback=jQuery172023438778722540676_1582550742759&site_id=winport&videoId=212681892963&memberId=b2b-2998056521e0101&_csrf_token=ff0e8c81c1371be1deae94cb4ee26310
