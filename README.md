@@ -18,18 +18,16 @@ Ali.py JD.py分别为爬取淘宝和京东宝贝的爬虫代码<br>
 直接运行run.py文件即可
 一次性可以粘贴多个宝贝链接到链接框（用换行隔开），最多一次性启动3线程同时爬取
 
-
 ![Alt text](https://github.com/enhey/ImageCrawl/blob/master/MarkdwonImg/download_url.png)<br><br>
 
-
 ![Alt text](MarkdwonImg/downloading.png)<br><br>
-
 
 ![Alt text](MarkdwonImg/result.png)
 
 <h3>程序使用<h3/>
 <h5>使用前必须在设置中选择好图片保存路径与爬取的具体项目<br>
-![Alt text](MarkdwonImg/setting.png "设置")
+  
+![Alt text](MarkdwonImg/setting.png)
 
 <h3>程序打包说明<h3/>
 <h5>程序可以直接打包成exe程序在windows中运行<br>
@@ -40,6 +38,8 @@ pyinstaller -F -w -i img.ico run.py<br>
 -i 设定程序图标 ，其后面的ico文件就是程序图标（根据自己想要的图标进行修改）<br>
 run.py 就是要打包的程序<br>
 -c 生成的exe文件打开方式为控制台打开。<br> 
+  
+  
 ![Alt text](MarkdwonImg/package_command.png)<br><br>
 
 
