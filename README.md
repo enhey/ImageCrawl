@@ -17,7 +17,8 @@ Ali.py JD.py分别为爬取淘宝和京东宝贝的爬虫代码<br>
 <h3>运行</h3>
 直接运行run.py文件即可
 一次性可以粘贴多个宝贝链接到链接框（用换行隔开），最多一次性启动3线程同时爬取
-![Alt text](MarkdwonImg/download_url.png)<br><br>
+![Alt text](https://github.com/enhey/ImageCrawl/blob/master/MarkdwonImg/download_url.png)<br><br>
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
 ![Alt text](MarkdwonImg/downloading.png)<br><br>
 ![Alt text](MarkdwonImg/result.png)
 
